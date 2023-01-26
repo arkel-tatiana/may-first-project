@@ -1,0 +1,10 @@
+.description{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
